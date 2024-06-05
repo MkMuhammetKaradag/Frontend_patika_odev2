@@ -1,4 +1,3 @@
-import React from "react";
 import { useAppSelector } from "../context/hooks";
 import NoteCard from "../components/NoteCard";
 
